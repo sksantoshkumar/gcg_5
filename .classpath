@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/11. selenium-java-3.141.59_old/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/11. selenium-java-3.141.59_old/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/11. selenium-java-3.141.59_old/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/11. selenium-java-3.141.59_old/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/11. selenium-java-3.141.59_old/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/11. selenium-java-3.141.59_old/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/11. selenium-java-3.141.59_old/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/poi-3.14/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/poi-3.14/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/poi-3.14/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/poi-3.14/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/poi-3.14/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/E_DRIVE/1. SOFTWARE/poi-3.14/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
